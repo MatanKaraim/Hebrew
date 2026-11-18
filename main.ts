@@ -1,0 +1,1 @@
+hebrewText.scrollText("סשה המלכה")
